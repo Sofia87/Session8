@@ -1,0 +1,18 @@
+body{background-color: red;}
+.woohoo{
+    background-color: black;
+}
+
+.top-row{
+  background-color: green;
+}
+
+.bottom-row{
+  background-color: pink;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.card-image-top{
+  height:118px;
+}
